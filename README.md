@@ -1,13 +1,13 @@
- Hi, I'm Ahmet 
+Hi, I'm Ahmet 
 
 🚀 Software Developer focused on backend, automation and building practical solutions.
 
-### 🔧 Tech Stack
+🔧 Tech Stack
 - JavaScript
 - Node.js
 - PostgreSQL
 
-### 📌 Interests
+📌 Interests
 - API development
 - Automation & scripting
 - Scalable backend systems
